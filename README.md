@@ -1,6 +1,6 @@
 # ngix-autosc-buat-alibabacloud
 ### nano /etc/xray/xray.key
-isi dengan cret private 
+isi dengan cert
 
 ### nano /etc/xray/xray.crt
-isi dengan cret biasa
+isi dengan cret
